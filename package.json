@@ -1,6 +1,6 @@
 {
-  "name": "@lf/notifying",
-  "version": "1.0.0",
+  "name": "@f94leo/notifying",
+  "version": "0.0.0",
   "description": "One for all notify, all for one!",
   "main": "index.js",
   "scripts": {
@@ -18,9 +18,12 @@
     "Alert"
   ],
   "author": "leonardo furlanis",
-  "license": "MIT",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/f94leonardo/notifying/issues"
   },
-  "homepage": "https://github.com/f94leonardo/notifying#readme"
+  "homepage": "https://github.com/f94leonardo/notifying#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
