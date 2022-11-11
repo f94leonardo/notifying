@@ -1,4 +1,4 @@
-# @lf/notify
+# @f94leo/notifying
 
 This package, written in vanilla JavaScript and CSS, allows you to easily add notifications in your web project.
 
